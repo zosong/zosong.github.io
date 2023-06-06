@@ -1,0 +1,661 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  border: 1px none;
+  height: 7500px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.index .overlap-group17 {
+  height: 7159px;
+  left: 0;
+  position: absolute;
+  top: 342px;
+  width: 1920px;
+}
+
+.index .ul {
+  height: 7159px;
+  left: 192px;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .cluster22-ismail {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 38px;
+  width: 1530px;
+}
+
+.index .span1 {
+  color: #d55f5f;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+}
+
+.index .cluster21-s-bhatt {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 382px;
+  width: 1530px;
+}
+
+.index .ar-xiv20-subhadeep {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 637px;
+  width: 1530px;
+}
+
+.index .cluster19-z-yue {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 920px;
+  width: 1530px;
+}
+
+.index .open-shmem18-subha {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1225px;
+  width: 1530px;
+}
+
+.index .ross18-z-yue-t {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1311px;
+  width: 1530px;
+}
+
+.index .mascots18-z-yue {
+  height: 60px;
+  left: -2px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1397px;
+  width: 1530px;
+}
+
+.index .cc-grid18-h-fu {
+  height: 60px;
+  left: -2px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1483px;
+  width: 1530px;
+}
+
+.index .ismm19-m-khan {
+  height: 53px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1044px;
+  width: 1530px;
+}
+
+.index .par-co19-z-liu {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1100px;
+  width: 1530px;
+}
+
+.index .icpp19-f-chowdhu {
+  height: 53px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 984px;
+  width: 1530px;
+}
+
+.index .jcst20-andre-brin {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 795px;
+  width: 1530px;
+}
+
+.index .hps20-t-dey-k {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 709px;
+  width: 1530px;
+}
+
+.index .cc-grid21-rupak-ro {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 454px;
+  width: 1530px;
+}
+
+.index .icpp21-md-muhib-k {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 526px;
+  width: 1530px;
+}
+
+.index .bspc22-xingang-fa {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 254px;
+  width: 1530px;
+}
+
+.index .tpds22-z-li-b-j {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 182px;
+  width: 1530px;
+}
+
+.index .ipdps22-fahim-tah {
+  height: 60px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 110px;
+  width: 1530px;
+}
+
+.index .publications-by-year {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 800;
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: -54px;
+  white-space: nowrap;
+}
+
+.index .overlap-group5 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .number {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.index .overlap-group2 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 344px;
+  width: 1536px;
+}
+
+.index .overlap-group4 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 599px;
+  width: 1536px;
+}
+
+.index .overlap-group11 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 882px;
+  width: 1536px;
+}
+
+.index .overlap-group {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: -1px;
+  position: absolute;
+  top: 1173px;
+  width: 1536px;
+}
+
+.index .overlap-group14 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: -5px;
+  position: absolute;
+  top: 1570px;
+  width: 1536px;
+}
+
+.index .overlap-group6 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 2006px;
+  width: 1536px;
+}
+
+.index .overlap-group12 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 2318px;
+  width: 1536px;
+}
+
+.index .overlap-group15 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 2890px;
+  width: 1536px;
+}
+
+.index .overlap-group13 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 3308px;
+  width: 1536px;
+}
+
+.index .overlap-group8 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 4144px;
+  width: 1536px;
+}
+
+.index .overlap-group3 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 4774px;
+  width: 1536px;
+}
+
+.index .overlap-group7 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 5162px;
+  width: 1536px;
+}
+
+.index .overlap-group16 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 5338px;
+  width: 1536px;
+}
+
+.index .overlap-group1 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 5462px;
+  width: 1536px;
+}
+
+.index .overlap-group10 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 5864px;
+  width: 1536px;
+}
+
+.index .overlap-group9 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 6038px;
+  width: 1536px;
+}
+
+.index .x2023 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .x2024 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .jcc17-zhuo-liu {
+  height: 364px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1620px;
+  width: 1530px;
+}
+
+.index .span5 {
+  color: #3366cc;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+}
+
+.index .span-1 {
+  text-decoration: underline;
+}
+
+.index .nas15-fang-zhou {
+  height: 506px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 2364px;
+  width: 1530px;
+}
+
+.index .big-data14-t-wan {
+  height: 356px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 2936px;
+  width: 1530px;
+}
+
+.index .sc13-x-li-y-w {
+  height: 768px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 3358px;
+  width: 1530px;
+}
+
+.index .first-place-2012-a {
+  height: 558px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 4192px;
+  width: 1530px;
+}
+
+.index .sc11-y-wang-x {
+  height: 322px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 4822px;
+  width: 1530px;
+}
+
+.index .sc08-nsv-rao {
+  height: 351px;
+  left: 189px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 5502px;
+  width: 1530px;
+}
+
+.index .icpp06-shuang-li {
+  height: 718px;
+  left: 192px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 6084px;
+  width: 1530px;
+}
+
+.index .ipdps09-w-yu-o {
+  height: 64px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 5384px;
+  width: 1530px;
+}
+
+.index .cc-grid07-weikuan {
+  height: 110px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 5908px;
+  width: 1530px;
+}
+
+.index .cf10-v-tipparaj {
+  height: 112px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 5208px;
+  width: 1530px;
+}
+
+.index .sc16-t-wang-k {
+  height: 248px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 2050px;
+  width: 1530px;
+}
+
+.index .footerfooter {
+  background-color: var(--solid-pink);
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 7108px;
+  width: 1920px;
+}
+
+.index .copyright-2023-wei {
+  height: 16px;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.index .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.index .divname {
+  background-color: var(--solid-pink);
+  height: 188px;
+  min-width: 1920px;
+  position: relative;
+}
+
+.index .about {
+  height: 29px;
+  left: 530px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.index .publications {
+  height: 22px;
+  left: 804px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 120px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.index .teaching {
+  height: 22px;
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.index .service {
+  height: 22px;
+  left: 1082px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.index .lab-wiki-fsu-internal {
+  cursor: pointer;
+  height: 29px;
+  left: 1190px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.index .research-team {
+  height: 29px;
+  left: 626px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.index .title {
+  height: 75px;
+  left: 806px;
+  letter-spacing: 0;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+}
