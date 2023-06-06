@@ -1,0 +1,652 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2700px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.index .divrow {
+  height: 2447px;
+  left: 449px;
+  position: absolute;
+  top: 204px;
+  width: 1170px;
+}
+
+.index .divcol-sm-4 {
+  height: 350px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 300px;
+}
+
+.index .rectangle {
+  height: 1px;
+  left: -37px;
+  position: absolute;
+  top: -207px;
+  width: 88px;
+}
+
+.index .contact-me {
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 19.8px;
+  position: absolute;
+  top: 343px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.index .hr {
+  border-color: var(--gallery);
+  height: 2px;
+  left: -30px;
+  top: 523px;
+  width: 360px;
+}
+
+.index .hiring {
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 19.8px;
+  position: absolute;
+  top: 533px;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.index .text {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  height: 136px;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 560px;
+  width: 340px;
+}
+
+.index .hr-1 {
+  border-color: var(--gallery);
+  height: 1px;
+  left: -30px;
+  top: 709px;
+  width: 360px;
+}
+
+.index .x441684624749_-1 {
+  height: 303px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 260px;
+}
+
+.index .address {
+  height: 141px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 372px;
+  width: 263px;
+}
+
+.index .span-1 {
+  text-decoration: underline;
+}
+
+.index .divcol-sm-8 {
+  height: 2447px;
+  left: 382px;
+  position: absolute;
+  top: 0;
+  width: 780px;
+}
+
+.index .about {
+  height: 27px;
+  left: 7px;
+  line-height: 26.4px;
+  top: 74px;
+}
+
+.index .weikuan-will-yu-is {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 257px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 116px;
+  width: 744px;
+}
+
+.index .span2 {
+  color: var(--cobalt);
+  text-decoration: underline;
+}
+
+.index .research-interests {
+  height: 27px;
+  left: 5px;
+  line-height: 26.4px;
+  top: 389px;
+}
+
+.index .ul {
+  height: 140px;
+  left: 0;
+  position: absolute;
+  top: 448px;
+  width: 750px;
+}
+
+.index .database-systems-bi {
+  height: 20px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.index .cloud-computing-par {
+  height: 20px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.index .security-and-privacy {
+  height: 20px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+  width: 633px;
+}
+
+.index .parallel-io-file-and-storage-systems {
+  height: 20px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+  width: 673px;
+}
+
+.index .high-performance-com {
+  height: 20px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 91px;
+  white-space: nowrap;
+}
+
+.index .news {
+  height: 27px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 610px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.index .hr-2 {
+  border-color: #9f9999;
+  height: 1px;
+  left: 6px;
+  top: 1159px;
+  width: 759px;
+}
+
+.index .university-services {
+  height: 27px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1222px;
+  white-space: nowrap;
+  width: 428px;
+}
+
+.index .member-cs-chair-se {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1461px;
+  white-space: nowrap;
+}
+
+.index .chair-cs-faculty-s {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1395px;
+  white-space: nowrap;
+}
+
+.index .member-fsu-researc {
+  height: 20px;
+  top: 1349px;
+  white-space: nowrap;
+}
+
+.index .member-fsu-researc-1 {
+  height: 40px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1306px;
+  width: 774px;
+}
+
+.index .trainee-fsu-emergi {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1283px;
+  white-space: nowrap;
+  width: 514px;
+}
+
+.index .cluster-2012-2015 {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1759px;
+  white-space: nowrap;
+}
+
+.index .cc-grid-2013-2016 {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1783px;
+  white-space: nowrap;
+}
+
+.index .external-services {
+  height: 27px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1538px;
+  white-space: nowrap;
+}
+
+.index .member-cs-graduate {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1484px;
+  white-space: nowrap;
+}
+
+.index .supercomputing-sc {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1645px;
+  white-space: nowrap;
+}
+
+.index .infocom-2018-2019 {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1668px;
+  white-space: nowrap;
+}
+
+.index .hpdc-2022-2023-tpc-member {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1691px;
+  white-space: nowrap;
+}
+
+.index .icdcs-2021-tpc-member {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1714px;
+  white-space: nowrap;
+}
+
+.index .associate-chair-for {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1372px;
+  white-space: nowrap;
+}
+
+.index .member-fsu-center {
+  height: 40px;
+  top: 1418px;
+  width: 774px;
+}
+
+.index .editorial-excellence {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1599px;
+  white-space: nowrap;
+}
+
+.index .panelist-nasa-2017 {
+  height: 40px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1984px;
+  width: 744px;
+}
+
+.index .external-proposal-re {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2027px;
+  white-space: nowrap;
+}
+
+.index .technical-reviewers {
+  height: 40px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2050px;
+  width: 744px;
+}
+
+.index .ieee-big-data-2013 {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1806px;
+  white-space: nowrap;
+}
+
+.index .hpcc-2017-tpc-member {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1829px;
+  white-space: nowrap;
+}
+
+.index .icpp-2007-2008-tpc-member {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1852px;
+  white-space: nowrap;
+}
+
+.index .pc-vice-chair-nas-2015-network-track {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1875px;
+  white-space: nowrap;
+  width: 372px;
+}
+
+.index .pc-co-chair-discs-2 {
+  height: 40px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1898px;
+  width: 744px;
+}
+
+.index .co-chair-dagstuhl-w {
+  height: 40px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1941px;
+  width: 744px;
+}
+
+.index .associate-editor-for-tpds-2018-2022 {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1622px;
+  white-space: nowrap;
+}
+
+.index .ipdps-2020-2021-2022-tpc-member {
+  height: 20px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1737px;
+  white-space: nowrap;
+}
+
+.index .footerfooter {
+  background-color: var(--solid-pink);
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 2650px;
+  width: 1920px;
+}
+
+.index .copyright-2023-wei {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 16px;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.index .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.index .divname {
+  background-color: var(--solid-pink);
+  height: 188px;
+  min-width: 1920px;
+  position: relative;
+}
+
+.index .about-1 {
+  height: 29px;
+  left: 530px;
+  line-height: 28.6px;
+  text-align: center;
+  top: 117px;
+}
+
+.index .publications {
+  height: 22px;
+  left: 804px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 120px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.index .teaching {
+  height: 22px;
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.index .service {
+  height: 22px;
+  left: 1082px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.index .lab-wiki-fsu-internal {
+  cursor: pointer;
+  height: 29px;
+  left: 1190px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.index .research-team {
+  height: 29px;
+  left: 626px;
+  line-height: 28.6px;
+  text-align: center;
+  top: 117px;
+}
+
+.index .title {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 75px;
+  left: 806px;
+  letter-spacing: 0;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.index .about-2 {
+  letter-spacing: 0;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.index .hr-3 {
+  border-top-style: solid;
+  border-top-width: 1px;
+  position: absolute;
+}
+
+.index .member-fsu {
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+}
+
+.index .research {
+  letter-spacing: 0;
+  position: absolute;
+  white-space: nowrap;
+}
