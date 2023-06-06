@@ -1,7 +1,10 @@
 :root { 
   --black: #000000;
+  --blue: #0000ee;
   --cobalt: #0645ad;
+  --gallery: #eeeeee;
   --mine-shaft: #333333;
+  --solid-pink: #782f40;
   --white: #ffffff;
  
   --font-size-l: 30px;
@@ -30,20 +33,20 @@
   font-weight: 400;
 }
 
-.inter-semi-bold-white-18px {
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 600;
-}
-
 .inter-bold-mine-shaft-13px {
   color: var(--mine-shaft);
   font-family: var(--font-family-inter);
   font-size: var(--font-size-xxxs);
   font-style: normal;
   font-weight: 700;
+}
+
+.inter-semi-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
 }
 
 .inter-medium-mine-shaft-13px {
@@ -65,6 +68,30 @@
 .inter-normal-white-18px {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-mine-shaft-17px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-blue-17px {
+  color: var(--blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
 }
