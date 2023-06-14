@@ -1,0 +1,483 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  border: 1px none;
+  height: 3800px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.index .for-more-info-castl-research-group {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-weight: 500;
+  height: 20px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 3644px;
+  white-space: nowrap;
+  width: 659px;
+}
+
+.index .span0 {
+  color: var(--black);
+  font-style: italic;
+}
+
+.index .span2 {
+  text-decoration: underline;
+}
+
+.index .database-systems-bi {
+  height: 132px;
+  left: 192px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 342px;
+  width: 1530px;
+}
+
+.index .address {
+  height: 344px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1216px;
+  width: 1530px;
+}
+
+.index .gpu-processor-and-me {
+  height: 185px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 902px;
+  width: 1530px;
+}
+
+.index .phd-students-fahi {
+  height: 264px;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 552px;
+  width: 1530px;
+}
+
+.index .research-interests-container {
+  height: 28px;
+  left: 192px;
+  position: absolute;
+  top: 294px;
+  width: 1536px;
+}
+
+.index .research-interests {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .research-interests-1 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .research-group-members-container {
+  height: 28px;
+  left: 192px;
+  position: absolute;
+  top: 502px;
+  width: 1536px;
+}
+
+.index .research-group-members {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .research-group-members-1 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .research-projects-no {
+  height: 28px;
+  left: 191px;
+  position: absolute;
+  top: 846px;
+  width: 1536px;
+}
+
+.index .research-projects-not-a-full-list {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .research-projects-not-a-full-list-1 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .publications-container {
+  height: 28px;
+  left: 192px;
+  position: absolute;
+  top: 1108px;
+  width: 1536px;
+}
+
+.index .publications {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .publications-1 {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 800;
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .research-honors-and {
+  height: 28px;
+  left: 192px;
+  position: absolute;
+  top: 1168px;
+  width: 1536px;
+}
+
+.index .research-honors-and-recognitions {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .research-honors-and-recognitions-1 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .software-products-fe-container {
+  height: 28px;
+  left: 191px;
+  position: absolute;
+  top: 1592px;
+  width: 1536px;
+}
+
+.index .software-products-fe {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .software-products-fe-1 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .tutorials-and-invite-container {
+  height: 28px;
+  left: 190px;
+  position: absolute;
+  top: 1872px;
+  width: 1536px;
+}
+
+.index .tutorials-and-invited-talks-since-2011 {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .tutorials-and-invite {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .research-sponsors-container {
+  height: 28px;
+  left: 190px;
+  position: absolute;
+  top: 2258px;
+  width: 1536px;
+}
+
+.index .research-sponsors {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .research-sponsors-1 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .group-alumni-container {
+  height: 28px;
+  left: 190px;
+  position: absolute;
+  top: 2702px;
+  width: 1536px;
+}
+
+.index .group-alumni {
+  background-color: var(--quill-gray);
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.index .group-alumni-1 {
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.index .big-data-analytics-t {
+  height: 212px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1640px;
+  width: 1530px;
+}
+
+.index .governmental-agencie {
+  height: 370px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 2308px;
+  width: 1530px;
+}
+
+.index .phd-students-and-t {
+  height: 819px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 2752px;
+  width: 1530px;
+}
+
+.index .invited-talk-at-ua-t {
+  height: 317px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1920px;
+  width: 1530px;
+}
+
+.index .footerfooter {
+  background-color: var(--solid-pink);
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 3750px;
+  width: 1920px;
+}
+
+.index .copyright-2023-wei {
+  height: 16px;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.index .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.index .divname {
+  background-color: var(--solid-pink);
+  height: 188px;
+  min-width: 1920px;
+  position: relative;
+}
+
+.index .about {
+  height: 29px;
+  left: 530px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.index .publications-2 {
+  height: 22px;
+  left: 804px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.index .teaching {
+  height: 22px;
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.index .service {
+  height: 22px;
+  left: 1082px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.index .lab-wiki-fsu-internal {
+  cursor: pointer;
+  height: 29px;
+  left: 1190px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.index .research-team {
+  height: 29px;
+  left: 626px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.index .title {
+  height: 75px;
+  left: 806px;
+  letter-spacing: 0;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+}
