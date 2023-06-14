@@ -1,0 +1,156 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2700px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.index .overlap-group {
+  height: 2447px;
+  left: 0;
+  position: absolute;
+  top: 264px;
+  width: 1920px;
+}
+
+.index .fall-2022-cis-5930 {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-weight: 400;
+  height: 2160px;
+  left: 375px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 17px;
+  width: 1170px;
+}
+
+.index .span-1 {
+  text-decoration: underline;
+}
+
+.index .footerfooter {
+  background-color: var(--solid-pink);
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 2386px;
+  width: 1920px;
+}
+
+.index .copyright-2023-wei {
+  height: 16px;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.index .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.index .divname {
+  background-color: var(--solid-pink);
+  height: 188px;
+  min-width: 1920px;
+  position: relative;
+}
+
+.index .about {
+  height: 29px;
+  left: 530px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.index .publications {
+  height: 22px;
+  left: 804px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.index .teaching {
+  height: 22px;
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.index .service {
+  height: 22px;
+  left: 1082px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.index .lab-wiki-fsu-internal {
+  cursor: pointer;
+  height: 29px;
+  left: 1190px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.index .research-team {
+  height: 29px;
+  left: 626px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.index .title {
+  height: 75px;
+  left: 806px;
+  letter-spacing: 0;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+}
