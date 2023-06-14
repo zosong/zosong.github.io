@@ -1,0 +1,93 @@
+:root { 
+  --black: #000000;
+  --cobalt: #0645ad;
+  --quill-gray: #d2d2d2cc;
+  --solid-pink: #782f40;
+  --white: #ffffff;
+ 
+  --font-size-l2: 30px;
+  --font-size-m: 23px;
+  --font-size-m2: 18px;
+  --font-size-xl2: 55px;
+  --font-size-xxs: 15px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-normal-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-extra-bold-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-normal-cobalt-23px {
+  color: var(--cobalt);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-semi-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-extra-bold-cobalt-30px {
+  color: var(--cobalt);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+.inter-extra-bold-cobalt-23px {
+  color: var(--cobalt);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-normal-white-23px-2 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-55px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
