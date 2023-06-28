@@ -1,793 +1,5 @@
-/* screen - index */
-
-.index {
-  background-color: var(--white);
-  border: 1px none;
-  height: 2700px;
-  overflow: hidden;
-  position: relative;
-  width: 1920px;
-}
-
-.index .divrow {
-  height: 2447px;
-  left: 449px;
-  position: absolute;
-  top: 204px;
-  width: 1170px;
-}
-
-.index .divcol-sm-4 {
-  height: 350px;
-  left: 0;
-  position: absolute;
-  top: 55px;
-  width: 300px;
-}
-
-.index .rectangle {
-  height: 1px;
-  left: -37px;
-  position: absolute;
-  top: -207px;
-  width: 88px;
-}
-
-.index .contact-me {
-  height: 20px;
-  left: 15px;
-  letter-spacing: 0;
-  line-height: 19.8px;
-  position: absolute;
-  top: 343px;
-  white-space: nowrap;
-  width: 97px;
-}
-
-.index .hr {
-  border-color: var(--gallery);
-  height: 2px;
-  left: -30px;
-  top: 523px;
-  width: 360px;
-}
-
-.index .hiring {
-  height: 20px;
-  left: 15px;
-  letter-spacing: 0;
-  line-height: 19.8px;
-  position: absolute;
-  top: 533px;
-  white-space: nowrap;
-  width: 156px;
-}
-
-.index .text {
-  color: var(--mine-shaft);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-xxxs);
-  font-weight: 400;
-  height: 136px;
-  left: 8px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 560px;
-  width: 340px;
-}
-
-.index .hr-1 {
-  border-color: var(--gallery);
-  height: 1px;
-  left: -30px;
-  top: 709px;
-  width: 360px;
-}
-
-.index .x441684624749_-1 {
-  height: 303px;
-  left: 15px;
-  object-fit: cover;
-  position: absolute;
-  top: 25px;
-  width: 260px;
-}
-
-.index .address {
-  height: 141px;
-  left: 15px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 372px;
-  width: 263px;
-}
-
-.index .span-1 {
-  text-decoration: underline;
-}
-
-.index .divcol-sm-8 {
-  height: 2447px;
-  left: 382px;
-  position: absolute;
-  top: 0;
-  width: 780px;
-}
-
-.index .about {
-  height: 27px;
-  left: 7px;
-  line-height: 26.4px;
-  top: 74px;
-}
-
-.index .weikuan-will-yu-is {
-  color: transparent;
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-s);
-  font-weight: 400;
-  height: 257px;
-  left: 7px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 116px;
-  width: 744px;
-}
-
-.index .span2 {
-  color: var(--cobalt);
-  text-decoration: underline;
-}
-
-.index .research-interests {
-  height: 27px;
-  left: 5px;
-  line-height: 26.4px;
-  top: 389px;
-}
-
-.index .ul {
-  height: 140px;
-  left: 0;
-  position: absolute;
-  top: 448px;
-  width: 750px;
-}
-
-.index .database-systems-bi {
-  height: 20px;
-  left: 40px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: -1px;
-  white-space: nowrap;
-}
-
-.index .cloud-computing-par {
-  height: 20px;
-  left: 40px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 22px;
-  white-space: nowrap;
-}
-
-.index .security-and-privacy {
-  height: 20px;
-  left: 40px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 45px;
-  white-space: nowrap;
-  width: 633px;
-}
-
-.index .parallel-io-file-and-storage-systems {
-  height: 20px;
-  left: 40px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 68px;
-  white-space: nowrap;
-  width: 673px;
-}
-
-.index .high-performance-com {
-  height: 20px;
-  left: 40px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 91px;
-  white-space: nowrap;
-}
-
-.index .news {
-  height: 27px;
-  left: 7px;
-  letter-spacing: 0;
-  line-height: 26.4px;
-  position: absolute;
-  top: 610px;
-  white-space: nowrap;
-  width: 273px;
-}
-
-.index .hr-2 {
-  border-color: #9f9999;
-  height: 1px;
-  left: 6px;
-  top: 1159px;
-  width: 759px;
-}
-
-.index .university-services {
-  height: 27px;
-  left: 15px;
-  letter-spacing: 0;
-  line-height: 26.4px;
-  position: absolute;
-  top: 1222px;
-  white-space: nowrap;
-  width: 428px;
-}
-
-.index .member-cs-chair-se {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1461px;
-  white-space: nowrap;
-}
-
-.index .chair-cs-faculty-s {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1395px;
-  white-space: nowrap;
-}
-
-.index .member-fsu-researc {
-  height: 20px;
-  top: 1349px;
-  white-space: nowrap;
-}
-
-.index .member-fsu-researc-1 {
-  height: 40px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1306px;
-  width: 774px;
-}
-
-.index .trainee-fsu-emergi {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1283px;
-  white-space: nowrap;
-  width: 514px;
-}
-
-.index .cluster-2012-2015 {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1759px;
-  white-space: nowrap;
-}
-
-.index .cc-grid-2013-2016 {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1783px;
-  white-space: nowrap;
-}
-
-.index .external-services {
-  height: 27px;
-  left: 15px;
-  letter-spacing: 0;
-  line-height: 26.4px;
-  position: absolute;
-  top: 1538px;
-  white-space: nowrap;
-}
-
-.index .member-cs-graduate {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1484px;
-  white-space: nowrap;
-}
-
-.index .supercomputing-sc {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1645px;
-  white-space: nowrap;
-}
-
-.index .infocom-2018-2019 {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1668px;
-  white-space: nowrap;
-}
-
-.index .hpdc-2022-2023-tpc-member {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1691px;
-  white-space: nowrap;
-}
-
-.index .icdcs-2021-tpc-member {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1714px;
-  white-space: nowrap;
-}
-
-.index .associate-chair-for {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1372px;
-  white-space: nowrap;
-}
-
-.index .member-fsu-center {
-  height: 40px;
-  top: 1418px;
-  width: 774px;
-}
-
-.index .editorial-excellence {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1599px;
-  white-space: nowrap;
-}
-
-.index .panelist-nasa-2017 {
-  height: 40px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1984px;
-  width: 744px;
-}
-
-.index .external-proposal-re {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 2027px;
-  white-space: nowrap;
-}
-
-.index .technical-reviewers {
-  height: 40px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 2050px;
-  width: 744px;
-}
-
-.index .ieee-big-data-2013 {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1806px;
-  white-space: nowrap;
-}
-
-.index .hpcc-2017-tpc-member {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1829px;
-  white-space: nowrap;
-}
-
-.index .icpp-2007-2008-tpc-member {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1852px;
-  white-space: nowrap;
-}
-
-.index .pc-vice-chair-nas-2015-network-track {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1875px;
-  white-space: nowrap;
-  width: 372px;
-}
-
-.index .pc-co-chair-discs-2 {
-  height: 40px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1898px;
-  width: 744px;
-}
-
-.index .co-chair-dagstuhl-w {
-  height: 40px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1941px;
-  width: 744px;
-}
-
-.index .associate-editor-for-tpds-2018-2022 {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1622px;
-  white-space: nowrap;
-}
-
-.index .ipdps-2020-2021-2022-tpc-member {
-  height: 20px;
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  top: 1737px;
-  white-space: nowrap;
-}
-
-.index .footerfooter {
-  background-color: var(--solid-pink);
-  height: 50px;
-  left: 0;
-  position: absolute;
-  top: 2650px;
-  width: 1920px;
-}
-
-.index .copyright-2023-wei {
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-xxs);
-  font-weight: 400;
-  height: 16px;
-  left: 770px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-  text-align: center;
-  top: 16px;
-  white-space: nowrap;
-  width: 381px;
-}
-
-.index .frame-2 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: fit-content;
-}
-
-.index .divname {
-  background-color: var(--solid-pink);
-  height: 188px;
-  min-width: 1920px;
-  position: relative;
-}
-
-.index .about-1 {
-  height: 29px;
-  left: 530px;
-  line-height: 28.6px;
-  text-align: center;
-  top: 117px;
-}
-
-.index .publications {
-  height: 22px;
-  left: 804px;
-  letter-spacing: 0;
-  line-height: 28.6px;
-  position: absolute;
-  text-align: center;
-  top: 120px;
-  white-space: nowrap;
-  width: 108px;
-}
-
-.index .teaching {
-  height: 22px;
-  left: 957px;
-  letter-spacing: 0;
-  line-height: 28.6px;
-  position: absolute;
-  text-align: center;
-  top: 120px;
-  white-space: nowrap;
-  width: 80px;
-}
-
-.index .service {
-  height: 22px;
-  left: 1082px;
-  letter-spacing: 0;
-  line-height: 28.6px;
-  position: absolute;
-  text-align: center;
-  top: 121px;
-  white-space: nowrap;
-  width: 67px;
-}
-
-.index .lab-wiki-fsu-internal {
-  cursor: pointer;
-  height: 29px;
-  left: 1190px;
-  letter-spacing: 0;
-  line-height: 28.6px;
-  position: absolute;
-  text-align: center;
-  text-decoration: underline;
-  top: 118px;
-  white-space: nowrap;
-}
-
-.index .research-team {
-  height: 29px;
-  left: 626px;
-  line-height: 28.6px;
-  text-align: center;
-  top: 117px;
-}
-
-.index .title {
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-xl);
-  font-weight: 400;
-  height: 75px;
-  left: 806px;
-  letter-spacing: 0;
-  line-height: 75px;
-  position: absolute;
-  text-align: center;
-  top: 39px;
-  white-space: nowrap;
-}
-
-.index .about-2 {
-  letter-spacing: 0;
-  position: absolute;
-  white-space: nowrap;
-}
-
-.index .hr-3 {
-  border-top-style: solid;
-  border-top-width: 1px;
-  position: absolute;
-}
-
-.index .member-fsu {
-  left: 55px;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: absolute;
-}
-
-.index .research {
-  letter-spacing: 0;
-  position: absolute;
-  white-space: nowrap;
-}
-
-
-/* globals */
-
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @import url("https://fonts.googleapis.com/css?family=Inter:500,700,600,400");
-
-@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-
-@import url("https://fonts.googleapis.com/css?family=Inter:500,700,600,400");
-
-.divname-90Up1n {
-  background-color: var(--solid-pink);
-  height: 188px;
-  min-width: 1920px;
-  mix-blend-mode: normal;
-  position: relative;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.valign-text-middle {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.publications-3RT0vD {
-  background-color: transparent;
-  height: 22px;
-  left: 804px;
-  letter-spacing: 0px;
-  line-height: 28.6px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  text-decoration: underline;
-  top: 120px;
-  white-space: nowrap;
-  width: 108px;
-}
-
-.title-3RT0vD {
-  background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-  height: 75px;
-  left: 806px;
-  letter-spacing: 0px;
-  line-height: 75px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 39px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.research-team-3RT0vD {
-  background-color: transparent;
-  height: 29px;
-  left: 626px;
-  letter-spacing: 0px;
-  line-height: 28.6px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 117px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.about-3RT0vD {
-  height: 29px;
-  left: 530px;
-  line-height: 28.6px;
-  text-align: center;
-  top: 117px;
-}
-
-.weikuanyu-github-io-by-html-to-design-free-version-20-05-2023-19-00-13-gmt-4
-  .about {
-  background-color: transparent;
-  letter-spacing: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  white-space: nowrap;
-  width: auto;
-}
-
-.lab-wiki-fsu-internal-3RT0vD {
-  background-color: transparent;
-  cursor: pointer;
-  height: 29px;
-  left: 1190px;
-  letter-spacing: 0px;
-  line-height: 28.6px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  text-decoration: underline;
-  top: 118px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.service-3RT0vD {
-  background-color: transparent;
-  height: 22px;
-  left: 1082px;
-  letter-spacing: 0px;
-  line-height: 28.6px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 121px;
-  white-space: nowrap;
-  width: 67px;
-}
-
-.teaching-3RT0vD {
-  background-color: transparent;
-  height: 22px;
-  left: 957px;
-  letter-spacing: 0px;
-  line-height: 28.6px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 120px;
-  white-space: nowrap;
-  width: 80px;
-}
-
 
 .screen a {
   display: contents;
@@ -807,6 +19,10 @@
   pointer-events: auto;
 }
 
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
 .align-self-flex-end {
   align-self: flex-end;
 }
@@ -821,96 +37,437 @@
   box-sizing: border-box;
 }
 
-/* Variables */
-
 :root {
-  --black: rgba(0, 0, 0, 1);
-  --blue: rgba(0, 0, 238, 1);
-  --cobalt: rgba(6, 69, 173, 1);
-  --mine-shaft: rgba(51, 51, 51, 1);
-  --solid-pink: rgba(120, 47, 64, 1);
-  --gallery: rgba(238, 238, 238, 1);
-  --white: rgba(255, 255, 255, 1);
+  --black: #000000;
+  --cobalt: #0645ad;
+  --gallery: #eeeeee;
+  --mine-shaft: #333333;
+  --solid-pink: #782f40;
+  --star-dust: #9f9999;
+  --white: #ffffff;
 
+  --font-size-l2: 30px;
+  --font-size-m2: 18px;
+  --font-size-s2: 17px;
+  --font-size-xl2: 55px;
+  --font-size-xs2: 16px;
+  --font-size-xxs2: 15px;
   --font-size-xxxs: 13px;
-  --font-size-xxs: 15px;
-  --font-size-xs: 16px;
-  --font-size-s: 17px;
-  --font-size-m: 18px;
-  --font-size-l: 30px;
-  --font-size-xl: 55px;
 
-  --font-family-inter: "Inter";
+  --font-family-inter: "Inter", Helvetica;
 }
-
-/* Classes */
-
-.inter-normal-white-18px {
+.inter-normal-cobalt-17px {
+  color: var(--cobalt);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-weight: 400;
+  font-size: var(--font-size-s2);
   font-style: normal;
+  font-weight: 400;
 }
+
+.inter-semi-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 600;
+}
+
 .inter-bold-mine-shaft-13px {
   color: var(--mine-shaft);
   font-family: var(--font-family-inter);
   font-size: var(--font-size-xxxs);
-  font-weight: 700;
   font-style: normal;
+  font-weight: 700;
 }
+
+.inter-normal-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .inter-medium-mine-shaft-13px {
   color: var(--mine-shaft);
   font-family: var(--font-family-inter);
   font-size: var(--font-size-xxxs);
+  font-style: normal;
   font-weight: 500;
-  font-style: normal;
 }
-.inter-bold-mine-shaft-16px {
-  color: var(--mine-shaft);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-xs);
-  font-weight: 700;
-  font-style: normal;
-}
-.inter-normal-mine-shaft-17px {
-  color: var(--mine-shaft);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-s);
-  font-weight: 400;
-  font-style: normal;
-}
-.inter-normal-cobalt-18px {
-  color: var(--cobalt);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-weight: 400;
-  font-style: normal;
-}
+
 .inter-bold-mine-shaft-30px {
   color: var(--mine-shaft);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-l);
-  font-weight: 700;
+  font-size: var(--font-size-l2);
   font-style: normal;
+  font-weight: 700;
 }
-.inter-normal-mine-shaft-18px {
+
+.inter-bold-mine-shaft-16px {
   color: var(--mine-shaft);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-weight: 400;
+  font-size: var(--font-size-xs2);
   font-style: normal;
+  font-weight: 700;
 }
-.inter-normal-blue-17px {
-  color: var(--blue);
+
+.inter-normal-mine-shaft-17px {
+  color: var(--mine-shaft);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-s);
-  font-weight: 400;
+  font-size: var(--font-size-s2);
   font-style: normal;
+  font-weight: 400;
 }
-.inter-semi-bold-white-18px {
+
+.inter-normal-white-55px {
   color: var(--white);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-weight: 600;
+  font-size: var(--font-size-xl2);
   font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2700px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.index .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.index .menu {
+  background-color: var(--solid-pink);
+  height: 188px;
+  min-width: 1920px;
+  position: relative;
+}
+
+.index .flex-row {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  left: 530px;
+  min-width: 860px;
+  position: absolute;
+  top: 117px;
+}
+
+.index .about {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 29px;
+  line-height: 28.6px;
+  min-width: 54px;
+  text-align: center;
+}
+
+.index .research-team {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 29px;
+  line-height: 28.6px;
+  margin-left: 42px;
+  min-width: 134px;
+  text-align: center;
+}
+
+.index .publications {
+  cursor: pointer;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  margin-bottom: 2px;
+  margin-left: 44px;
+  text-align: center;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.index .teaching {
+  cursor: pointer;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  margin-bottom: 2px;
+  margin-left: 45px;
+  text-align: center;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.index .service {
+  cursor: pointer;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  margin-left: 45px;
+  text-align: center;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.index .lab-wiki-fsu-internal {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  margin-left: 41px;
+  min-width: 200px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.index .title {
+  height: 75px;
+  left: 806px;
+  letter-spacing: 0;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.index .divrow {
+  align-items: flex-start;
+  display: flex;
+  gap: 82px;
+  height: 2447px;
+  margin-left: 148px;
+  margin-top: 15px;
+  min-width: 1170px;
+}
+
+.index .picandcontact {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 54.5px;
+  min-height: 710px;
+  width: 300px;
+}
+
+.index .rectangle {
+  height: 1px;
+  margin-left: -37px;
+  margin-top: -27px;
+  width: 88px;
+}
+
+.index .portrait {
+  align-self: center;
+  height: 303px;
+  margin-right: 10px;
+  margin-top: 51px;
+  object-fit: cover;
+  width: 260px;
+}
+
+.index .contact-me {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 19.8px;
+  margin-left: 15px;
+  margin-top: 15px;
+  white-space: nowrap;
+}
+
+.index .address {
+  align-self: center;
+  height: 141px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 7px;
+  margin-top: 9px;
+  width: 263px;
+}
+
+.index .span-1 {
+  text-decoration: underline;
+}
+
+.index .hr {
+  border-color: var(--gallery);
+  height: 2px;
+  margin-left: -30px;
+  margin-top: 10px;
+  width: 360px;
+}
+
+.index .hiring {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 19.8px;
+  margin-left: 15px;
+  margin-top: 8px;
+  white-space: nowrap;
+}
+
+.index .hr-1 {
+  border-color: var(--gallery);
+  height: 1px;
+  margin-left: -30px;
+  margin-top: 156px;
+  width: 360px;
+}
+
+.index .home-info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 2447px;
+  padding: 74px 0;
+  width: 780px;
+}
+
+.index .about-1 {
+  height: 27px;
+  line-height: 26.4px;
+  margin-left: 7px;
+}
+
+.index .weikuan-will-yu-is {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-weight: 400;
+  height: 257px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 7px;
+  margin-top: 14px;
+  width: 744px;
+}
+
+.index .research-interests {
+  height: 27px;
+  line-height: 26.4px;
+  margin-top: 10px;
+}
+
+.index .database-systems-bi {
+  height: 150px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 5px;
+  margin-top: 18px;
+  width: 740px;
+}
+
+.index .news {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  margin-left: 7px;
+  margin-top: 32px;
+  white-space: nowrap;
+}
+
+.index .hr-2 {
+  align-self: center;
+  border-color: var(--star-dust);
+  height: 1px;
+  margin-right: 9px;
+  margin-top: 522px;
+  width: 759px;
+}
+
+.index .university-services {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  margin-left: 5px;
+  margin-top: 62px;
+  white-space: nowrap;
+}
+
+.index .trainee-fsu-emergi {
+  align-self: flex-end;
+  height: 270px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 5px;
+  margin-top: 16px;
+  width: 760px;
+}
+
+.index .external-services {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  margin-left: 5px;
+  margin-top: 15px;
+  white-space: nowrap;
+}
+
+.index .editorial-excellence {
+  align-self: center;
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-weight: 400;
+  height: 660px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 8px;
+  margin-top: 15px;
+  width: 742px;
+}
+
+.index .footerfooter {
+  align-items: flex-start;
+  background-color: var(--solid-pink);
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 16.3px 769px;
+}
+
+.index .copyright-2023-wei {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.index .about-2 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.index .hr-3 {
+  border-top-style: solid;
+  border-top-width: 1px;
+}
+
+.index .research {
+  letter-spacing: 0;
+  white-space: nowrap;
 }
