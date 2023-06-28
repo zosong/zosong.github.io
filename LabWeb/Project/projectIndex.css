@@ -1,0 +1,404 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:600italic,700,600,700italic,400");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --black: #000000;
+  --cobalt: #0645ad;
+  --mine-shaft: #333333;
+  --mischka: #c9d0db;
+  --solid-pink: #782f40;
+  --star-dust: #9f9999;
+  --white: #ffffff;
+
+  --font-size-l2: 28px;
+  --font-size-l22: 30px;
+  --font-size-xxl: 35px;
+  --font-size-xxs2: 15px;
+  --font-size-xxxs: 13px;
+
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-normal-mischka-28px {
+  color: var(--mischka);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-30px {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l22);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-cobalt-30px {
+  color: var(--cobalt);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l22);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l22);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-semi-bold-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l22);
+  font-style: italic;
+  font-weight: 600;
+}
+
+.inter-bold-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-white-30px2 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l22);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-mine-shaft-13px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.index .overlap-group-container {
+  height: 2700px;
+  position: relative;
+  width: 1920px;
+}
+
+.index .overlap-group3 {
+  height: 2620px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 1920px;
+}
+
+.index .divrow {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 320px;
+  min-height: 2620px;
+  padding: 362px 0;
+  position: absolute;
+  top: 0;
+  width: 1380px;
+}
+
+.index .overlap-group1 {
+  height: 312px;
+  position: relative;
+  width: 1380px;
+}
+
+.index .nole-land-a-software {
+  height: 245px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 67px;
+  width: 1353px;
+}
+
+.index .span {
+  text-decoration: underline;
+}
+
+.index .hr {
+  left: 0;
+  position: absolute;
+  top: 53px;
+  width: 1380px;
+}
+
+.index .title {
+  height: 67px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 327px;
+}
+
+.index .overlap-group {
+  height: 1364px;
+  position: relative;
+  width: 1380px;
+}
+
+.index .frame-7 {
+  flex-direction: column;
+  height: 1296px;
+  left: 27px;
+  padding: 370px 0;
+  position: absolute;
+  top: 68px;
+  width: 1348px;
+}
+
+.index .hr-1 {
+  width: 698px;
+}
+
+.index .hr-2 {
+  margin-top: 164px;
+  width: 698px;
+}
+
+.index .hr-3 {
+  margin-top: 88px;
+  width: 698px;
+}
+
+.index .hr-4 {
+  left: 27px;
+  position: absolute;
+  top: 109px;
+  width: 698px;
+}
+
+.index .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  height: 770px;
+  left: 27px;
+  position: absolute;
+  top: 67px;
+  width: 1330px;
+}
+
+.index .text {
+  line-height: 35px;
+  width: 1330px;
+}
+
+.index .text3 {
+  line-height: 35px;
+  width: 1330px;
+}
+
+.index .span11 {
+  color: #ff0000;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l22);
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.index .hr-5 {
+  left: 0;
+  position: absolute;
+  top: 53px;
+  width: 1380px;
+}
+
+.index .past-projects {
+  height: 67px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 327px;
+}
+
+.index .footerfooter {
+  align-items: flex-start;
+  background-color: var(--solid-pink);
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1920px;
+  padding: 16.3px 769px;
+  position: absolute;
+  top: 2570px;
+}
+
+.index .copyright-2023-wei {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.index .address {
+  height: 20px;
+  left: 636px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 292px;
+  white-space: nowrap;
+}
+
+.index .hr-6 {
+  left: 320px;
+  position: absolute;
+  top: 288px;
+  width: 1380px;
+}
+
+.index .computer-architectur {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l22);
+  font-style: italic;
+  font-weight: 700;
+  height: 53px;
+  left: 606px;
+  letter-spacing: 0;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  white-space: nowrap;
+  width: 904px;
+}
+
+.index .c-slogo {
+  height: 221px;
+  left: 510px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.index .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--solid-pink);
+  display: flex;
+  height: 2650px;
+  left: 0;
+  min-width: 320px;
+  padding: 80px 0;
+  position: absolute;
+  top: 0;
+}
+
+.index .frame-1 {
+  height: 1798px;
+  padding: 44px 32px;
+  width: 320px;
+}
+
+.index .flex-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  height: 774px;
+  margin-left: 1px;
+  position: relative;
+  width: 255px;
+}
+
+.index .text-1 {
+  line-height: 30px;
+  text-decoration: underline;
+  width: 255px;
+}
+
+.index .text3-1 {
+  line-height: 30px;
+  text-decoration: underline;
+  width: 255px;
+}
+
+.index .frame {
+  align-items: flex-start;
+  display: flex;
+}
+
+.index .hr-7 {
+  border-color: var(--star-dust);
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 30px;
+}
+
+.index .text-2 {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.index .text3-2 {
+  letter-spacing: 0;
+  position: relative;
+}
